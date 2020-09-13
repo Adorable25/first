@@ -2,3 +2,4 @@ Pink
 Blue
 Green
 Indigo
+Orange
